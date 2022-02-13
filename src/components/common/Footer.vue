@@ -1,9 +1,6 @@
 <template>
   <footer>
-    <div class="footer"><!-- 
-      <div style="margin-left: 20px">
-        <h4 class="fw-600">Jordan Kingdom</h4>
-      </div> -->
+    <div class="footer">
       <div class="about-us">
         <div>
           <h5 class="fw-600">About Us</h5>

@@ -10,6 +10,6 @@ export default [
   { path: "/product-details", name: "product-details", component: ProductDetails },
   { path: "/cart", component: Cart },
   { path: "/about-us", component: AboutUs },
-  { path: "/login", component: Login },
   { path: "/signup", component: Signup },
+  { path: "/login", component: Login },
 ];
